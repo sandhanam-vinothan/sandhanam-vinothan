@@ -63,16 +63,6 @@ real-world problem solving while continuously improving my technical skills.
 
 ## 🚀 Projects
 
-### 🤖 AI Code Error Explainer
-
-A developer-focused application designed to analyze source code,
-identify programming errors, explain root causes, generate safe fixes,
-and verify the corrected result.
-
-**Focus:** Code Analysis • Error Explanation • Automated Fixing
-
----
-
 ### 🛒 E-Commerce Mobile Application
 
 A full-stack mobile e-commerce application built using React Native,
